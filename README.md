@@ -16,7 +16,7 @@ Components used:
 
 Circuit:
 
-![Alt text](aSimpleGame_board.png "circuit")
+![Alt text](aSimpleGame__board.png "circuit")
 
 created January 9th 2017
 by Sergio Martín
