@@ -4,19 +4,6 @@
 #include <stdlib.h> //RNG purposes
 #include <time.h>   //RNG purposes
 
-//Alien definition
-byte Alien[8] = {
-    B01110,
-    B10001,
-    B11111,
-    B10101,
-    B01010,
-    B10001,
-    B01010,
-    B00000
-};
-
-
 struct Joystick
 {
 	const int Switch_PIN = 8;
