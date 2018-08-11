@@ -67,7 +67,6 @@ void setup()
 	LCD.begin(lcdPins.columns, lcdPins.rows);
 
 	printStartScreen();
-	
 }
 
 void loop()
@@ -244,7 +243,6 @@ void printStartScreen()
 
 	if (game1.startScreenCount < 750)
 	{
-
 		LCD.print("Click to start..");
 	}
 	else
